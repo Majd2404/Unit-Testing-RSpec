@@ -9,7 +9,7 @@ Here's a basic guide on how to perform unit testing in Ruby on Rails using RSpec
 Add the RSpec gem to your Gemfile and run bundle install:
 ```ruby
 group :development, :test do
-  gem 'rspec-rails', '~> 3.10'
+  gem 'rspec-rails', '~> 6.0.3'
 end
 ```
 Then, run the following commands in your terminal:
