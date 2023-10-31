@@ -64,3 +64,5 @@ After running the tests, RSpec will provide output indicating whether the tests 
 These are basic steps to get you started with unit testing in Ruby on Rails using RSpec. 
 Adjustments may be needed based on your application structure and requirements. 
 Additionally, you can explore other testing tools and frameworks like Minitest, but RSpec is widely used and has a strong community in the Ruby on Rails ecosystem.
+
+![image](https://github.com/Majd2404/Unit-Testing-RSpec/assets/56276308/4251b291-934b-454a-a495-c3394d3ec53f)
